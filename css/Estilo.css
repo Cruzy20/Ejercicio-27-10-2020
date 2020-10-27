@@ -1,0 +1,108 @@
+body {
+  background-color:#333;
+}
+
+#Im{
+  position:absolute;
+  left:1%;
+  top:2%;
+
+}
+
+#txt1{
+  position:absolute;
+  left:13%;
+  top:10%;
+  color: coral;
+
+}
+
+#txt2{
+  position:absolute;
+  left:2%;
+  top:30%;
+  width: 450px;
+
+}
+
+#txt3{
+  position:absolute;
+  left:2%;
+  top:42%;
+  width: 450px;
+
+}
+
+#txt4{
+  position:absolute;
+  left:38%;
+  top:30%;
+  width: 380px;
+
+}
+
+#txt5{
+  position:absolute;
+  left:38%;
+  top:42%;
+  width: 380px;
+
+}
+#txt6{
+  position:absolute;
+  left:2%;
+  top:80%;
+  width: 450px;
+
+}
+
+#txt7 {
+  position: absolute;
+  left: 2%;
+  top: 92%;
+  width: 450px;
+}
+#txt8{
+  position:absolute;
+  left:38%;
+  top:80%;
+  width: 450px;
+
+}
+#txt9{
+  position:absolute;
+  left:38%;
+  top:92%;
+  width: 450px;
+
+}
+
+#txt10{
+  position:absolute;
+  left:2%;
+  top:115%;
+  width: 450px;
+
+}
+
+#txt11{
+  position:absolute;
+  left:2%;
+  top:125%;
+  width: 450px;
+
+}
+
+#txt12{
+  position:absolute;
+  left:2%;
+  top:155%;
+  width: 450px;
+
+}
+
+#contact{
+  position:absolute;
+  left:2%;
+  top:165%;
+}
